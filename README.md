@@ -1,4 +1,20 @@
-# URL-Shortener-Python
-URL Shortener made using Python is a Tool that helps to reduce the length of the URL so that it can be shared easily on different platforms where the number of characters is an issue.
+# URL Shortener with Python 🚀🔗
 
-Check the Working Here - https://bit.ly/47NafyN
+- This is a simple URL shortener built with Python using the Tkinter and PyShortener modules. It allows users to easily shorten any long URL with a click of a button!
+
+# Features:
+
+- Simple GUI: Built with the Tkinter library for an easy-to-use interface 🖥️
+- Quick URL shortening: Shorten your long URLs instantly using the TinyURL API 🔗➡️🌍
+- Copy functionality: Get the shortened URL in a second input box ready to be copied to your clipboard 📋
+
+# Requirements:
+
+- Tkinter (comes pre-installed with Python)
+- PyShortener (install via pip install pyshortener)
+
+# How to Use:
+
+- Enter the URL you want to shorten 🌐
+- Click the "Click Here" button 🖱️
+- Copy the shortened URL that appears below ✂️
